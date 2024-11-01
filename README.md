@@ -2,29 +2,42 @@
   <img src="https://github.com/andres0v13d0/andres0v13d0/blob/main/Foto%20de%20fondo%20de%20LinkedIn%20Modelo%20Minimalista%20Beige%20Negro.png" alt="Banner" width="100%" />
 </p>
 
+<h2>👋 About Me</h2>
+<p>Highly motivated software developer with strong skills in both front-end and back-end development. Skilled in various technologies, including:</p>
 
-<h1 align="center">Jonathan Oviedo Chalacan</h1>
-
+<!-- tech stack icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/andres0viedo" target="_blank">LinkedIn</a> |
-  <a href="mailto:oviedojonathan2001@gmail.com">Email</a> |
-  Quito, Ecuador
+  <!-- Front-End -->
+  <h3>Front-End</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Front-End Icons" />
+  </a>
+
+  <!-- Back-End -->
+  <h3>Back-End</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,django,dotnet" alt="Back-End Icons" />
+  </a>
+
+  <!-- Mobile Development -->
+  <h3>Mobile Development</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase" alt="Mobile Development Icons" />
+  </a>
+
+  <!-- Languages -->
+  <h3>Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,cs,cpp,php,dart" alt="Programming Languages Icons" />
+  </a>
+
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database Icons" />
+  </a>
 </p>
 
-<p align="center">Proficient Full Stack Developer with experience in front-end, back-end, and mobile application development.</p>
-
----
-
-<h2>👋 About Me</h2>
-<p>I'm Jonathan, a highly motivated software developer with strong skills in both front-end and back-end development. I’m skilled in various technologies, including:</p>
-
-<ul>
-  <li><strong>Front-End:</strong> React, HTML5, Tailwind CSS, CSS3+</li>
-  <li><strong>Back-End:</strong> Node.js, Django, .NET</li>
-  <li><strong>Mobile Development:</strong> Flutter, Firebase</li>
-  <li><strong>Languages:</strong> Python, JavaScript, C#, C++, PHP, Dart</li>
-  <li><strong>Databases:</strong> MS SQL Server, MySQL, PostgreSQL</li>
-</ul>
 
 <h2>🌟 Skills</h2>
 <ul>
