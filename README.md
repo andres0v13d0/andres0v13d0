@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[URL_DE_TU_IMAGEN](https://github.com/andres0v13d0/andres0v13d0/blob/main/Foto%20de%20fondo%20de%20LinkedIn%20Modelo%20Minimalista%20Beige%20Negro.png)" alt="Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Jonathan Oviedo Chalacan</h1>
 
 <p align="center">
