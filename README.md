@@ -8,31 +8,31 @@
 <!-- tech stack icons -->
 <p align="center">
   <!-- Front-End -->
-  <h3>Front-End</h3>
+  <h3>Front-End  💻</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Front-End Icons" />
   </a>
 
   <!-- Back-End -->
-  <h3>Back-End</h3>
+  <h3>Back-End  ⌨️</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,django,dotnet" alt="Back-End Icons" />
   </a>
 
   <!-- Mobile Development -->
-  <h3>Mobile Development</h3>
+  <h3>Mobile Development 📱</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,firebase" alt="Mobile Development Icons" />
   </a>
 
   <!-- Languages -->
-  <h3>Languages</h3>
+  <h3>Languages  ✍️</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,cs,cpp,php,dart" alt="Programming Languages Icons" />
   </a>
 
   <!-- Databases -->
-  <h3>Databases</h3>
+  <h3>Databases  🛢️</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database Icons" />
   </a>
@@ -46,40 +46,44 @@
   <li>Proficient in Git for version control and experienced in Agile methodologies like Scrum and Kanban</li>
 </ul>
 
-<h2>💼 Work Experience</h2>
+<h2>📈  Analysis</h2>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andres0v13d0&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andres0v13d0&theme=dark&hide_border=false" /> 
+</td>
 
-<h3>Full Stack Developer - <em>Freelance | Quito, Ecuador</em></h3>
-<p><strong>September 2024 – Present</strong></p>
-<ul>
-  <li>Developed backend and frontend for an eCommerce platform on Shopify using Liquid, Node.js, and PostgreSQL</li>
-  <li>Focused on system optimization, inventory management, and user interface development with HTML5 and Tailwind CSS</li>
-  <li>Enhanced user experience by configuring business logic and implementing custom functionalities</li>
-</ul>
+<td width="50%" align="center">
 
-<h3>IT Intern - <em>Ministry of Economic and Social Inclusion | Riobamba, Ecuador</em></h3>
-<p><strong>April – July 2024</strong></p>
-<ul>
-  <li>Performed preventive and corrective maintenance on computer systems and networks</li>
-  <li>Organized data using advanced Excel, provided training, and supervised hardware/software maintenance</li>
-  <li>Improved workflow efficiency by 12% through digital record management and process optimization</li>
-</ul>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andres0v13d0&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-<h2>🎓 Education</h2>
-<ul>
-  <li><strong>Bachelor’s in Software Engineering</strong> - Escuela Superior Politécnica de Chimborazo, Ecuador (July 2020 – Present)</li>
-  <li><strong>Technician in Mobile Application Programming</strong> - National Learning Service, Colombia (September 2024 – Present)</li>
-  <li><strong>Self-learning Certificates</strong> - 10+ certificates from National Learning Service, Colombia (March 2021 – Present)</li>
-</ul>
-
-<h2>📚 Notable Academic Projects</h2>
-<ul>
-  <li>Mobile Application Development with AI (Flutter, Python)</li>
-  <li>eCommerce Platform Development (Node.js, React, Tailwind CSS, HTML5)</li>
-  <li>Computer Lab Management System (Node.js, Angular, Firebase)</li>
-</ul>
-
-<h2>📫 Contact</h2>
-<p>
-  📧 <a href="mailto:oviedojonathan2001@gmail.com">oviedojonathan2001@gmail.com</a><br>
-  🌐 <a href="https://linkedin.com/in/andres0viedo" target="_blank">linkedin.com/in/andres0viedo</a><br>
+<h2 align="center">📫 Contact</h2>
+<p align="center">
+  <a href="mailto:oviedojonathan2001@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/andres0viedo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=andres0v13d0&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
